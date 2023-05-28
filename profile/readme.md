@@ -23,12 +23,15 @@ Building out this Project for the Encode x Genosis Hackthon was quite a challeng
 ### 2.SPINSTACK BACKEND -[GITHUB](https://github.com/GHDECRYPTORS/spinstack_backend)  
 
 
-### DEMO
+## DEMOS
+
+  #### SETUPS
 - visit [spinstack website](https://spinstack-frontend.herokuapp.com)
 - setup a bussiness account and get your `API KEY` 
 - download the spinstack sdk and initiailize your `API KEY`
 - The use it to receive payment in your traditional `Web 2 Application` e.g eccommerce, etc
-
+  
+  #### DEMO VIDEO
 
 
 
