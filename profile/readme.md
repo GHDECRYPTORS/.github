@@ -16,23 +16,24 @@ Overall, the Spinstack Payment System, powered by the RequestNetwork, revolution
 ## Build Process
 Building out this Project for the Encode x Genosis Hackthon was quite a challenging and fun one. we reached milestones during the Development of this protocol. 
 
-#### SPINSTACK SDK - [GITHUB](https://github.com/GHDECRYPTORS/spinstack_sdk)                   
+### 1. SPINSTACK SDK - [GITHUB](https://github.com/GHDECRYPTORS/spinstack_sdk)                   
 
 ![Screenshot (133)](https://github.com/GHDECRYPTORS/.github/assets/40062598/7b72374e-e333-482e-8e51-d884696934f0)
 
-### SPINSTACK BACKEND -[GITHUB](https://github.com/GHDECRYPTORS/spinstack_backend)  
+### 2.SPINSTACK BACKEND -[GITHUB](https://github.com/GHDECRYPTORS/spinstack_backend)  
 
 
 ### DEMO
 - visit [spinstack website](https://spinstack-frontend.herokuapp.com)
 - setup a bussiness account and get your `API KEY` 
-- download
+- download the spinstack sdk and initiailize your `API KEY`
+- The use it to receive payment in your traditional `Web 2 Application` e.g eccommerce, etc
 
 
 
 
 ### CLOSURE
-To get started with our protocol and use your api to spin 
+ARIGATO GOZIAMASU
 
 
 
