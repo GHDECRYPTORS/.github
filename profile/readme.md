@@ -32,7 +32,9 @@ Building out this Project for the Encode x Genosis Hackthon was quite a challeng
 - The use it to receive payment in your traditional `Web 2 Application` e.g eccommerce, etc
   
   #### DEMO VIDEO
+[Demo Video](https://vimeo.com/831051730)
 
+[![IMAGE ALT TEXT](https://i.vimeocdn.com/video/1676237501-44c953bcbf394701d4bf4df2a7fbef507296f6a7ce83d45ff0c65a8d549d2c9f-d.jpg?mw=80&q=85)](https://vimeo.com/831051730 "Video Title")
 
 
 ### CLOSURE
