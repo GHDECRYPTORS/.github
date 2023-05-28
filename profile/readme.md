@@ -24,7 +24,7 @@ Building out this Project for the Encode x Genosis Hackthon was quite a challeng
 
 
 ## DEMOS
-
+  ### Live E commerce Site https://spinstack-ecommerce.herokuapp.com
   #### SETUPS
 - visit [spinstack website](https://spinstack-frontend.herokuapp.com)
 - setup a bussiness account and get your `API KEY` 
